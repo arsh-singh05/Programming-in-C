@@ -4,6 +4,6 @@ This repository contains a collection of projects and exercises in the C program
 
 This repository mainly has all my first year Computer Programming codes at BITS Pilani.
 
-The *some other codes* file includes codes that are generally asked in assessments
+The '*some other codes*' file includes various codes that are generally asked in assessments
 
 If you have any suggestions or improvements for the projects and exercises in this repository, feel free to create a pull request or open an issue. Contributions are welcome!
